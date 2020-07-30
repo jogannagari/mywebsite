@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"border-top",
+				"border-top-style\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"sty",
+				"font-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"da",
+				"Date"
+			],
+			[
+				"em",
+				"Email"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"R",
+				"rajesh"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"g",
+				"GOLD"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sai/Desktop/web devlopment/Html - personal site/css/styles.css",
+		"/C/Users/Sai/Desktop/web devlopment/Html - personal site/contact.html",
+		"/C/Users/Sai/Desktop/web devlopment/Html - personal site/index.html",
+		"/C/Users/Sai/Desktop/web devlopment/Html - personal site/Debugging Problem 2.html",
+		"/C/Users/Sai/Desktop/web devlopment/Html - personal site/Debugging Problem 1.html",
+		"/C/Users/Sai/Desktop/name.html",
+		"/C/Users/Sai/Desktop/java/bank.java",
+		"/C/Users/Sai/Desktop/java/column_input.java",
+		"/C/Users/Sai/Desktop/java/array.java",
+		"/C/Users/Sai/Desktop/html/javascript.html",
+		"/C/Users/Sai/Desktop/html/button.html",
+		"/C/Users/Sai/Desktop/html/Athiloka Sundari.mp4",
+		"/C/Users/Sai/Desktop/html/css.html",
+		"/C/Users/Sai/Desktop/html/video123.html",
+		"/C/Users/Sai/Desktop/gym/package2.html",
+		"/C/Users/Sai/Desktop/gym/package3.html",
+		"/C/Users/Sai/Desktop/gym/gym.html",
+		"/C/Users/Sai/Desktop/gym/package1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
